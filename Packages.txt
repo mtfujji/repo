@@ -1,0 +1,13 @@
+Package: com.yourname.packagename
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MTFUJI <s.rzyszka@gmail.com>
+Filename: debs//packagename.deb
+Depends: anemone
+Size: 300bytes
+Section: Themes
+Description: A flat and simple theme for Anemone.
+MD5sum: nvk3njjnv
+Author: MTFUJI <s.rzyszka@gmail.com>
+Depiction: https://username.github.io/depic/foldername/index.html
+Name: Package Name
