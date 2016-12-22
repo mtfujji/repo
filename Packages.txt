@@ -9,5 +9,4 @@ Section: Themes
 Description: A flat and simple theme for Anemone.
 MD5sum: nvk3njjnv
 Author: MTFUJI <s.rzyszka@gmail.com>
-Depiction: https://username.github.io/depic/foldername/index.html
 Name: Package Name
