@@ -1,0 +1,10 @@
+Package: com.mtfuji.ios10icons
+Name: ios10-icons-beta
+Version: 1.0
+Architecture: iphoneos-arm
+Description: mach_portal and a substrate icon for Lotus
+Maintainer: MTFUJI <s.rzyszka@gmail.com>
+Author: MTFUJI <s.rzyszka@gmail.com>
+Section: Themes
+Confilicts: com.packageIdont.like
+Depends: anemone
