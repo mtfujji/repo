@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/mtfijii</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/user/MTFUJl/</url>
+			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
